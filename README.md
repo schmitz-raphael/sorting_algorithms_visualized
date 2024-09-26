@@ -51,11 +51,11 @@ This Python project visualizes various sorting algorithms using Pygame. The prog
    
 4. To exit, simply close the window.
 
-##Requirements
+## Requirements
   Python 3.x
   Pygame (install via pip)
 
-##Future Improvements
+## Future Improvements
   - clean up the code
   - improve UX by making the length of the array variable (it's hard-coded atm)
   - fix some bugs
